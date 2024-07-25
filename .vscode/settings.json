@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "GerenciadorTarefasAvancado.sln",
+    "csharp.debug.console": "externalTerminal"
+}

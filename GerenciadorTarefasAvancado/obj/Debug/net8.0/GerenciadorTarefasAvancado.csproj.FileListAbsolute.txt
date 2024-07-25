@@ -1,0 +1,14 @@
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\bin\Debug\net8.0\GerenciadorTarefasAvancado.exe
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\bin\Debug\net8.0\GerenciadorTarefasAvancado.deps.json
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\bin\Debug\net8.0\GerenciadorTarefasAvancado.runtimeconfig.json
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\bin\Debug\net8.0\GerenciadorTarefasAvancado.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\bin\Debug\net8.0\GerenciadorTarefasAvancado.pdb
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.AssemblyInfoInputs.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.AssemblyInfo.cs
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.csproj.CoreCompileInputs.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\refint\GerenciadorTarefasAvancado.dll
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.pdb
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\GerenciadorTarefasAvancado.genruntimeconfig.cache
+c:\Users\berna\Desktop\Programação\C#\GerenciadorTarefasV2\GerenciadorTarefasAvancado\obj\Debug\net8.0\ref\GerenciadorTarefasAvancado.dll
